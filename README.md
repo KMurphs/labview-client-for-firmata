@@ -10,3 +10,6 @@ This is a client implemented in LabVIEW that interacts with an embedded device o
 - http://firmata.org/wiki/Main_Page
 - https://docs.arduino.cc/hacking/software/FirmataLibrary
 - https://www.microsoft.com/en-za/p/windows-remote-arduino-experience/9nblggh2041m?rtc=1&activetab=pivot:overviewtab
+- https://forums.ni.com/t5/LabVIEW/How-to-make-editable-Table-in-LabVIEW/m-p/3054035#M870065
+- https://lavag.org/topic/19009-borderless-arrays/
+- https://forums.ni.com/t5/LabVIEW/borderless-array-gui-problem/td-p/2922832
